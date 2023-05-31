@@ -1,0 +1,3 @@
+class FizzBuzz:
+  @staticmethod
+  def calculates(num)return "Fizz" if num % 3 == 0 else "Buzz"
